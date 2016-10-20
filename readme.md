@@ -66,10 +66,3 @@ Läs mer om listor och loopar och i övning 32 & 34 i [*Learn Ruby the Hard Way*
 
 * [Learn Ruby the Hard Way - Exercise 32: Loops and Arrays](http://learnrubythehardway.org/book/ex32.html)
 * [Learn Ruby the Hard Way - Exercise 34: Accessing Elements of Arrays](http://learnrubythehardway.org/book/ex34.html)
-
-### Python ###
-
-Läs mer om listor och loopar i övning 32 & 34 i [*Learn Python the Hard Way*](http://learnpythonthehardway.org)
-
-* [Learn Python the Hard Way - Exercise 32: Loops and Lists](http://learnpythonthehardway.org/book/ex32.html)
-* [Learn Python the Hard Way - Exercise 34: Accessing Elements of Lists](http://learnpythonthehardway.org/book/ex34.html)
