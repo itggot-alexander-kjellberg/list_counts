@@ -1,3 +1,4 @@
 .idea/**
 *.pyc
 Gemfile.lock
+lib/*.rb
