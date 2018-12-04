@@ -21,13 +21,13 @@ om `numbers:` är en tom lista (`[]`), returneras `nil` (ruby).
 	sum([])
 	#=> nil
     
-	sum([2,3,4,5])
+	sum([2,5,4,3])
 	#=> 14
 	
-	min([2,3,4,5])
+	min([2,3,40,5])
 	#=> 2
 	
-	max([2,3,4,5])
+	max([-2,-3,4,5])
 	#=> 5
 
 	average([1,2,3,4])
