@@ -5,14 +5,14 @@ Er uppgift här är att skriva egna funktioner som gör detta och några till so
 
 ## Uppgiftsbeskrivning ##
 
-Ni ska skriva funktionerna `sum`, `min`, `max`, `average` som tar en lista av tal, `numbers:` *som argument* och *returnerar* ett tal.
+Ni ska skriva funktionerna `sum`, `min`, `max`, `average` som tar en lista av tal, `numbers` *som argument* och *returnerar* ett tal.
 
-- `sum` returnerar summan av alla tal i `numbers:`
-- `min` returnerar det minsta värdet i `numbers:`
-- `max` returnerar det högsta värdet i `numbers:`
-- `average` returnerar medelvärdet av alla tal i `numbers:`
+- `sum` returnerar summan av alla tal i `numbers`
+- `min` returnerar det minsta värdet i `numbers`
+- `max` returnerar det högsta värdet i `numbers`
+- `average` returnerar medelvärdet av alla tal i `numbers`
 
-om `numbers:` är en tom lista (`[]`), returneras `nil` (ruby).
+om `numbers` är en tom lista (`[]`), returneras `nil` (ruby).
 
 
 ### Exempel ###
