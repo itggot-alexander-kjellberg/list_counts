@@ -1,4 +1,4 @@
-#ListCounts
+# ListCounts
 
 Många programmeringspråk har funktioner för att summera, hitta största och minsta värdet i listor av tal.
 Er uppgift här är att skriva egna funktioner som gör detta och några till som kanske saknas i ert programmeringsspråk.
